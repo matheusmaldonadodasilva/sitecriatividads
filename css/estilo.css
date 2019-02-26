@@ -1,0 +1,269 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+
+ 
+
+
+body {
+    background: url(../imgs/bgadm.png);   
+    
+}
+
+.navbar-default {
+
+    margin-top:-2px;
+    height: 80px;
+    background-color: #000;
+    border-color: #000;
+
+}
+
+.footer-color{
+    color: #fff
+}
+
+
+
+section#contato {
+    min-height: 80vh;   
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #ed1c24;
+    color: #fff;
+}
+
+#panel-color{
+    background-color: #ed1c24;
+}
+
+#painel-color-text{
+    color:#fff;
+}
+
+#borderradios{
+    border-radius: 10px;
+}
+
+.navbar-brand {
+   font-weight: 700; 
+   color: #F8F8FF;
+    
+}  
+
+.divslider {
+   /* padding-top: 5px;
+   /* padding-bottom: 5px; */
+    background: url(../imgs/bgslider.png);
+   
+}
+
+.div_colorida {
+    background: url(../imgs/bgslider.png);
+}
+
+.servicos_item * {
+    text-align: center;
+}
+
+.servicos_item h4 {
+    margin-top: 30px;  
+    font-size: 25px;
+}
+
+.servicos_btn_todososservicos {
+    margin-top: 25px;   
+}
+
+.portfolio_item {
+    background: white;   
+}
+
+.portfolio_row {
+    margin-bottom: 20px;
+}
+
+.portfolio_row:last-child {
+    margin-bottom: 0px;   
+}
+
+.portfolio_item h4 {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contato textarea {
+    height: 170px;   
+}
+
+.contato .aviso {
+   padding: 15px; 
+}  
+
+.section_interna {
+    padding-top: 0px;   
+}
+
+.form-login {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background: #eee;
+}
+
+.form-login input {
+    margin-bottom: 10px;   
+}
+
+
+
+.conteudo_painel {
+    background: white;   
+    border-radius:8px;
+    border:1px solid #eee;
+    box-shadow: 2px 2px 5px #888;
+}
+
+.conteudo_painel_int {
+    padding: 12px;   
+}
+
+.logoLogin{
+    padding: 0px;
+    margin-left: 1.5px;
+}
+
+.logoAdm{
+    padding: 5px;
+    margin-left: -3px;
+}
+
+.logo{
+    margin-top: -7px;
+    margin-left: 10px;
+    padding: 0px;
+    height: 70px;
+    width: 210px;
+}
+
+
+
+.navbar-default .navbar-nav > li > a {
+    background-color: #ed1c24;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover {
+    background-color: #ed1c24;
+}
+
+.adotantes {
+    width: 700px;
+    height: 500px;
+}
+
+#navbarTogglerDemo02{
+    margin-top:14px;
+    
+}
+
+#search-navbar{
+    width: 500px;
+    height: 47px;
+    margin-left:40px;
+}
+
+.divslider{
+    margin-top:-22px;
+}
+
+#button-addon2{
+    margin-left:-9px;
+    height: 47px;
+    background-color: #ff6100;
+
+}
+
+#a-nav-topics{
+    margin-left: 10px;
+    color: #000;
+}
+#a-nav-topics-two{
+    margin-top: -30px;
+    margin-right: 850px;
+}
+#a-nav-separate{
+margin-left: 10px;
+text-align: center;
+}
+#nav-two{
+    margin-top: -27px;
+height: 30px;   
+background-color: #F28123;
+    border-color: #F28123;
+}
+
+#menu-nav{
+    background-color: #000;
+}
+
+#a-nav-two-topics{
+    margin-top: 10px;
+}
+#button-dropdown-search{
+    height: 47px;
+    background-color: #F28123;
+    margin-left: -580px;
+
+}
+
+#h3-promotion-day{
+margin-left: 15px;
+margin-top: 10px;
+}
+
+#separate{
+    background-color: #000;
+    color: #000;
+    height: 2px;
+}
+
+
+.card-effect{
+    overflow: hidden;
+}
+
+.card-effect img{
+    transition: all 1.2s ease;
+}
+
+.card-effect:hover img{
+transform: scale(1.2);
+}
+
+
+.thumbnail{
+    overflow: hidden;
+}
+
+.thumbnail img{
+    transition: all 1.2s ease;
+}
+
+.thumbnail:hover img{
+transform: scale(1.2);
+}
+
+
+
+
+
